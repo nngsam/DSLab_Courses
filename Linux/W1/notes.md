@@ -1,4 +1,4 @@
-‘’’
+```
 theia@theia-u11203041:/home/project$ ls
 theia@theia-u11203041:/home/project$ ls/
 bash: ls/: No such file or directory
@@ -16,11 +16,11 @@ bin/  boot/
 theia@theia-u11203041:~$ cd ~
 theia@theia-u11203041:~$ 
 
-‘’’
+```
 
 Second Try
 
-‘’’
+```
 theia@theia-u11203041:/home/project$ ls
 theia@theia-u11203041:/home/project$ ls/
 bash: ls/: No such file or directory
@@ -38,9 +38,9 @@ bin/  boot/
 theia@theia-u11203041:~$ cd ~
 theia@theia-u11203041:~$ 
 
-‘’’
+```
 
-‘’’
+```
 theia@theia-u11203041:/home/project$ sudo apt update
 Ign:1 https://storage.googleapis.com/download.dartlang.org/linux/debian stable InRelease
 Ign:2 https://storage.googleapis.com/download.dartlang.org/linux/debian testing InRelease     
@@ -191,7 +191,7 @@ theia@theia-u11203041:/home/project$ vim done.txt
 theia@theia-u11203041:/home/project$ bash done.txt
 I am done with the lab!
 theia@theia-u11203041:/home/project$ 
-‘’’
+```
 
 
 
