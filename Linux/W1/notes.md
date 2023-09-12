@@ -1,3 +1,4 @@
+Hands-on Lab: Getting Started with the Linux Terminal
 ```
 theia@theia-u11203041:/home/project$ ls
 theia@theia-u11203041:/home/project$ ls/
@@ -39,7 +40,7 @@ theia@theia-u11203041:~$ cd ~
 theia@theia-u11203041:~$ 
 
 ```
-
+Hands-on Lab: Installing, Updating, and Working with Text Editors
 ```
 theia@theia-u11203041:/home/project$ sudo apt update
 Ign:1 https://storage.googleapis.com/download.dartlang.org/linux/debian stable InRelease
