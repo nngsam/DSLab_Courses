@@ -1,3 +1,4 @@
+
 Hands-on Lab: Getting Started with the Linux Terminal
 ```
 theia@theia-u11203041:/home/project$ ls
